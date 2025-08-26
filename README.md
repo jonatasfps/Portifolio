@@ -36,7 +36,7 @@ By testing multiple classification models, I examined the influence of **payload
 - **Booster version** and **number of previous flights** were strong predictors of success.  
 - Results support SpaceX’s focus on **reusable rocket technology**.  
 
-📂 **Source Code & Notebook:** [GitHub Repo](https://github.com/jonatasfps)  
+📂 **Source Code & Notebook:** [GitHub Repo](https://github.com/jonatasfps/Final-Presentation---Applied-Data-Science)  
 
 ---
 
