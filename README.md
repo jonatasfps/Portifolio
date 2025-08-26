@@ -40,6 +40,12 @@ By testing multiple classification models, I examined the influence of **payload
 
 ---
 
+## 📄 Résumé  
+
+📥 [Download Resume](Jonatas Firmino - Data Science Resume.pdf)  
+
+---
+
 ## ⚙️ Technical Skills  
 
 **Programming:** Python (NumPy, Pandas, Matplotlib, Scikit-learn, Plotly/Dash)  
