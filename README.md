@@ -42,7 +42,7 @@ By testing multiple classification models, I examined the influence of **payload
 
 ## 📄 Résumé  
 
-📥 [Download Resume](Jonatas Firmino - Data Science Resume.pdf)  
+📥 [Jonatas Firmino - Data Science Resume](https://github.com/jonatasfps/Portifolio/blob/8330ce1af47fd54ea711957d33c8d7d52cd4d9f5/Jonatas%20Firmino%20-%20Data%20Science%20Resume.pdf)
 
 ---
 
